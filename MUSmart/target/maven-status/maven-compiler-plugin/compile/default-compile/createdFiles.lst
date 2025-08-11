@@ -1,0 +1,5 @@
+com\mycompany\musmart\MUSmart.class
+com\mycompany\musmart\AppManagement.class
+com\mycompany\musmart\LowBatteryException.class
+com\mycompany\musmart\FoldablePhone.class
+com\mycompany\musmart\Smartphone.class
