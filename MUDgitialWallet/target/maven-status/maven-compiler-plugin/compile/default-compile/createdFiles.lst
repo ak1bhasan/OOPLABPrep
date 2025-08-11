@@ -1,0 +1,4 @@
+com\mycompany\mudgitialwallet\InvalidAmountException.class
+com\mycompany\mudgitialwallet\DigitalWallet.class
+com\mycompany\mudgitialwallet\InsufficientBalanceException.class
+com\mycompany\mudgitialwallet\MUDgitialWallet.class
